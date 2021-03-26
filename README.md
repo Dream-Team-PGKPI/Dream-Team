@@ -7,3 +7,9 @@
 > Марио Златев - Data analyzer<br/>
 > Галин Георгиев - Data learning designer<br/>
 > Мариян Иванов - Application designer<br/>
+
+#### Алгоритъма
+
+
+#### Очаквани резултати
+
