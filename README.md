@@ -1,2 +1,9 @@
-# Documentation
+# Документация
 
+## Темата е "изкуствен интелект, който сигнализира за замърсена вода"
+
+#### Екип
+> Божидар Бояджиев - Leader
+> Марио Златев - Data analyzer
+> Галин Георгиев - Data learning designer
+> Мариян Иванов - Application designer
