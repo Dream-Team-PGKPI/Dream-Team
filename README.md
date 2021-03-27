@@ -5,7 +5,7 @@
 ### Екип
 > Божидар Бояджиев - Leader<br/>
 > Марио Златев - Data analyzer<br/>
-> Галин Георгиев - Data learning designer<br/>
+> Галин Георгиев - Deep learning designer<br/>
 > Мариян Иванов - Application designer<br/>
 
 ### Алгоритмите
